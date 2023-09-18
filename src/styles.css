@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn {
+  --bs-btn-border-radius: rem;
+}
+
+.form-control {
+  font-size: 1rem;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
